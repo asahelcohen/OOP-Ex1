@@ -8,7 +8,7 @@ It produces the following Algorithms:
 5) Return list of the shortest route between 2 nodes.
 6) Save, Load functions, and Tests. 
 
-This project is done as part of a University assignment. for "Object-oriented programming" 
+* This project is done as part of a University assignment. for "Object-oriented programming" 
 class, at Ariel university, Israel.
 
 **for more detailes:
