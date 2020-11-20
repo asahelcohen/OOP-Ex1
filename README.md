@@ -12,7 +12,7 @@ It produces the following Algorithms:
 class, at Ariel university, Israel.
 
 * for more detailes:
--Dijkstra's Algorithm: https://www.coursera.org/lecture/advanced-data-structures/core-dijkstras-algorithm-2ctyF
+   * Dijkstra's Algorithm: https://www.coursera.org/lecture/advanced-data-structures/core-dijkstras-algorithm-2ctyF
     https://www.youtube.com/watch?v=GazC3A4OQTE
--Graph: https://hyperskill.org/learn/step/5645
--Itarator: https://www.geeksforgeeks.org/iterators-in-java/
+   * Graph: https://hyperskill.org/learn/step/5645
+   * Itarator: https://www.geeksforgeeks.org/iterators-in-java/
