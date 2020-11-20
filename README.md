@@ -11,7 +11,7 @@ It produces the following Algorithms:
 * This project is done as part of a University assignment. for "Object-oriented programming" 
 class, at Ariel university, Israel.
 
-**for more detailes:
+* for more detailes:
 -Dijkstra's Algorithm: https://www.coursera.org/lecture/advanced-data-structures/core-dijkstras-algorithm-2ctyF
     https://www.youtube.com/watch?v=GazC3A4OQTE
 -Graph: https://hyperskill.org/learn/step/5645
